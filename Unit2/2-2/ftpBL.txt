@@ -1,0 +1,8 @@
+admin:admin
+admin:123456
+admin:password
+root:toor
+root:123456
+root:password
+msfadmin:msfadmin
+ftpuser:ftppassword
